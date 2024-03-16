@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maharshi Joshi</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">An Aspiring Data Scientist</h3>
 
 - 📫 How to reach me **maharshi.04@outlook.com**
 
