@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves turning da
 - 📚 I read books when I'm in the mood.
 - 📈 Currently learning more about the finance world and investing.
 - 🧩 Puzzle solver, whether it's a Rubik's Cube or a data problem.
-- 🎬 Trying to watch a movie a week; last week, it was "Columbus". 
+- 🎬 Trying to watch a movie a week; last week, it was "The Intern". 
 
 ## Let's Connect
 - [Linkedin](https://www.linkedin.com/in/maharshi-joshi-01/)
