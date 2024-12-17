@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves turning da
 ## Projects
 - **[Sales Performance Analysis](https://github.com/Maharshi-joshi/Sales-Performance-Analysis)**: This project analyzes key sales metrics to optimize performance and drive informed decision-making. It includes an interactive Tableau dashboard and detailed insights on win rates, sales cycles, and revenue trends.
 - **[Coffee Shop Marketing Analysis](https://github.com/Maharshi-joshi/Coffee-Shop-Marketing-Analysis)**:Analyzed Maven Cafe's Rewards Program to identify key customer segments and optimize promotional strategies, using Tableau and Python. Achieved insights on high-value segments, offer effectiveness, and channel performance to drive customer engagement and sales growth.
+- **[Manufacturing Downtime Analysis](https://github.com/Maharshi-joshi/Manufacturing-Downtime-Analysis)**:This project analyzes downtime factors and operator performance for a soda bottling production line, identifying key inefficiencies such as top downtime causes and underperforming operators to improve production efficiency.
 
 
 ## Let's Connect
