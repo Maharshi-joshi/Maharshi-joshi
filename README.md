@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves turning da
 - [Linkedin](https://www.linkedin.com/in/maharshi-joshi-01/)
 - [Email](mailto:maharshi.04@outlook.com)
 
-### Take a look at my Resume [here](https://github.com/Maharshi-joshi/Resume/blob/main/Resume.pdf).
+### Take a look at my Resume [here](https://github.com/Maharshi-joshi/Resume/blob/main/Maharshi_Resume.pdf).
